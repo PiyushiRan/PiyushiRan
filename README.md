@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/piyushi-ranasinghe" target="blank">
+  <a href="[https://linkedin.com/in/piyushi-ranasinghe](https://www.linkedin.com/in/piyushi-ranasinghe-07a93828b/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:piyushiranasinghe@gmail.com">
