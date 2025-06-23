@@ -87,7 +87,7 @@ I'm a passionate Software Engineering student at SLIIT, specializing in building
 I'm always open to interesting projects, collaborations, or just a tech chat. Feel free to reach out!
 
 - 📧 Email: [piyushiranasinghe@gmail.com](mailto:piyushiranasinghe@gmail.com)
-- 💼 LinkedIn: [Piyushi Ranasinghe](https://linkedin.com/in/piyushi-ranasinghe)
+- 💼 LinkedIn: [Piyushi Ranasinghe](https://www.linkedin.com/in/piyushi-ranasinghe-07a93828b/)
 - 🐱 GitHub: [@piyushiran](https://github.com/piyushiran)
 
 <p align="center">
